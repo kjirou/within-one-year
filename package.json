@@ -1,7 +1,7 @@
 {
   "name": "within-one-year",
   "version": "1.0.0",
-  "description": "A module for judging whether it is within one year",
+  "description": "A module to judge whether it is within one year",
   "main": "index.js",
   "scripts": {
     "test": "$(npm bin)/mocha"

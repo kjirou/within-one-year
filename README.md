@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/within-one-year.svg)](https://badge.fury.io/js/within-one-year)
 
-A module for judging whether it is within one year
+A module to judge whether it is within one year
 
 
 ## Installation
